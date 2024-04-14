@@ -1,0 +1,7 @@
+List de exercitii de recapitulare:   
+git repo: https://github.com/Iulik1989/lesson28,
+
+folositi oricare api de pe https://jsonplaceholder.typicode.com/ pentru a lua careva date si a le afisa pe pagina,folositi async/await si try catch
+
+create metodele some, every si slice folosin for loop si reduce la fel cum facusem la lectie.
+
